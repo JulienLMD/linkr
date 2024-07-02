@@ -21,6 +21,14 @@ You will retrieve in your `./data/` folder the [MIMIC](https://physionet.org/fil
 - Explanation of the Common Data Model OMOP: [Common Data Model OMOP](https://ohdsi.github.io/CommonDataModel/cdm54.html#drug_exposure)
 - How to calculate drug dosages: [Calculating Drug Dosages](https://ohdsi.github.io/CommonDataModel/drug_dose.html)
 
+## Relationship Between OMOP and MIMIC
+
+MIMIC (Medical Information Mart for Intensive Care) is a freely accessible database containing de-identified health data associated with approximately sixty thousand intensive care unit admissions. While MIMIC is not a native component of the OMOP (Observational Medical Outcomes Partnership) Common Data Model (CDM), it is often used in medical research, especially for analyzing intensive care data.
+
+### Integrating MIMIC with OMOP CDM
+
+Although MIMIC is not inherently part of the OMOP CDM, its data can be mapped to the OMOP CDM. This mapping allows for broader integration and analysis within the OHDSI (Observational Health Data Sciences and Informatics) community.
+
 ## Creating a Framagit Account
 
 Create a Framagit account (a fork of GitLab) to access the LinkR repo and push plugins: [Framagit - Interhop Linkr](https://framagit.org/interhop/linkr)
