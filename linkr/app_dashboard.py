@@ -8,7 +8,7 @@ import pandas as pd
 from dash import Dash, dcc, html, dash_table, Input, Output, State, callback
 import plotly.express as px
 
-import src.preprocessing as pr
+import linkr.preprocessing as pr
 
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']

@@ -15,7 +15,7 @@ poetry shell
 To download the sample data:
 
 ```sh
-python src/download.py
+python linkr/download.py
 ```
 
 The sample date is download in the `data` folder.
@@ -26,5 +26,5 @@ There is a schema of dashboard that could use as a template to create a LINKR pl
 To run the dashboard in a local environment you can run the command:
 
 ```sh
-python src/app_dashboard.py
+python linkr/app_dashboard.py
 ```
