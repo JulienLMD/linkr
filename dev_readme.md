@@ -8,7 +8,7 @@
 ## Project Installation
 
 Install the project using Poetry as explained in the project's `README.md`.
-You will retrieve in your `./data/` folder the [MIMIC]https://physionet.org/files/mimic-iv-demo-omop/0.9/1_omop_data_csv/ (Medical Information Mart for Intensive Care)
+You will retrieve in your `./data/` folder the [MIMIC](https://physionet.org/files/mimic-iv-demo-omop/0.9/1_omop_data_csv/)(Medical Information Mart for Intensive Care)
 
 ## Creating an ATHENA Account
 
